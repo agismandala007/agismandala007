@@ -1,4 +1,4 @@
-<h2 align="center">Hi, there... <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h2>
+<h2 align="center">Hi, there... <img src="assets/waving-hand.png" width="35px" alt="👋"></h2>
 
 <p align="center">
   I'm Agis. <br>
