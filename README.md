@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badgee&logo=git&logoColor=white"/>
   </p>
 
-  <h3>Currently learning</h3>
+  <h3>Currently Learning</h3>
   <p>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badgee&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badgee&logo=django"/>
@@ -37,8 +37,8 @@
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agismandala007&layout=compact&theme=gotham" /><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=agismandala007&show_icons=true&theme=gotham&rank_icon=github" />
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=agismandala007&layout=compact&theme=gotham"/>
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=agismandala007&show_icons=true&theme=gotham"/>
     </a>
   </p>  
 </details>
