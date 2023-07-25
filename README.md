@@ -5,7 +5,16 @@
   <i>I have interest in backend and AI</i>
 </p>
 
+
+
 <details>
+
+  <h3>I Used Daily</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badgee&logo=fedora&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badgee&logo=visualstudiocode"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badgee&logo=git&logoColor=white"/>
+  </p>
 
   <h3>Currently learning</h3>
   <p>
@@ -16,10 +25,14 @@
   
   <h3>Tech Stack</h3>
   <p>
-    <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badgee&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badgee&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badgee&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CodeIgniter-2b2b2b?style=for-the-badgee&logo=codeigniter"/>
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badgee&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badgee&logo=cplusplus"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badgee&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PostGreSQL-4169E1?style=for-the-badgee&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badgee&logo=docker&logoColor=white"/>
   </p>
 
   <p align="center">
