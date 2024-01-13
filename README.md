@@ -21,8 +21,6 @@
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badgee&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badgee&logo=vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badgee&logo=django"/>
-    <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badgee&logo=solidity"/>
-    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badgee&logo=laravel&logoColor=white"/>
   </p>
   
   <h3>Tech Stack</h3>
@@ -34,6 +32,8 @@
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badgee&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PostGreSQL-4169E1?style=for-the-badgee&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badgee&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badgee&logo=solidity"/>
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badgee&logo=laravel&logoColor=white"/>
   </p>
 
   <p align="center">
