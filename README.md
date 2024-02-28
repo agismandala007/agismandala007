@@ -32,8 +32,9 @@
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badgee&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PostGreSQL-4169E1?style=for-the-badgee&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badgee&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badgee&logo=solidity"/>
+    <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badgee&logo=solidity"/>
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badgee&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badgee&logo=go&logoColor=white"/>
   </p>
 
   <p align="center">
